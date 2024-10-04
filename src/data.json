@@ -1,0 +1,80 @@
+{
+  "genreral": {
+    "type": "Community",
+    "topic": "Beauty"
+  },
+
+  "newsHeading": {
+    "title": "Ramen Wars Development Diary 3",
+    "decscription": "The mystery behind the contaminated ingredients in Prisma City has been solved, now it’s time to mark the occasion with some ramen!"
+  },
+  "cover": {
+    "url": "https://a.storyblok.com/f/165555/903x545/93b3cedb53/unnamed-1.png/m/1440x745/smart/filters:quality(85)",
+    "name": "Cover"
+  },
+  "article": [
+    {
+      "type": "PHARAGRAPH",
+      "content": {
+        "text": "In our <a href='google.com'>first developer diaryfor</a> Ramen Wars, we showcased art for locations in Prisma City and the characters living in it. This month, we are exploring the ‘gamified’ section of the event and previewing how the components of Ramen Wars convey a story that brings our world to life. <br /> <br /> Before we take a deeper look, it’s exciting to see the art assets progressing. KPR has always focused on producing art that is both skillful and imaginative, so we’re going to make sure we continue with the many locations that will be an integral part of the Ramen Wars experience. <br /> <br /> You know we take our world-building seriously when even the meatmongers are given this kind of attention…;",
+        "sectionHeading": null,
+        "subHeading": null
+      }
+    },
+    {
+      "type": "PHOTO",
+      "content": {
+        "url": "https://a.storyblok.com/f/165555/1920x1080/490e17d59b/rw_devdiary_aug_boonstorefront.jpg/m/715x0/smart/filters:quality(85)",
+        "name": "Boon storefront",
+        "isParallax": false
+      }
+    },
+    {
+      "type": "PHARAGRAPH",
+      "content": {
+        "text": "Now, with the launch of Sector 3, we’re returning Citizenship to its roots while expanding its reach. Our focus this time is on worldbuilding and bringing you all into the creative process. It’s time to go deeper. <br/> <br/>At its core, Sector 3 is about strengthening our community and enabling us to tell emergent stories together. As such, the Badges and Marks in this sector encourage more user-generated lore and content; as well as reward those creating art and music that bring our community together. <br/> <br/>Combining these new incentives with the Narrative Ruleset scenarios that have begun on our Discord server, we will be changing the trajectory of New Eden through collective storytelling as we move into our next major gamified activation: <i>Project CTZN.</i>",
+        "sectionHeading": "Section Heading in worldbuilding and decision-making processes",
+        "subHeading": null
+      }
+    },
+    { "type": "DEVIDER", "content": null },
+    {
+      "type": "PHARAGRAPH",
+      "content": {
+        "text": "Now, with the launch of Sector 3, we’re returning Citizenship to its roots while expanding its reach. Our focus this time is on worldbuilding and bringing you all into the creative process. It’s time to go deeper. <br/> <br/>At its core, Sector 3 is about strengthening our community and enabling us to tell emergent stories together. As such, the Badges and Marks in this sector encourage more user-generated lore and content; as well as reward those creating art and music that bring our community together. <br/> <br/>Combining these new incentives with the Narrative Ruleset scenarios that have begun on our Discord server, we will be changing the trajectory of New Eden through collective storytelling as we move into our next major gamified activation: <i>Project CTZN.</i>",
+        "sectionHeading": "Section Heading in worldbuilding and decision-making processes",
+        "subHeading": "sub heading"
+      }
+    },
+    {
+      "type": "BULLETLIST",
+      "content": [
+        "<b>Collect</b> Keepers to unlock new lore about the Factions and forces in New Eden, advancing the story and lifting the veil on some long-running mysteries;",
+        "<b>Create</b> original content across various media and be highlighted for your contributions, showcasing the power of our collective imagination;",
+        "<b>Participate</b> in our community through weekly KLMx sessions, hidden lore challenges and narrative scenarios as we strengthen our bonds;",
+        "<b>Engage</b> in worldbuilding and decision-making processes, enriching the KPR universe and making it a welcoming space for more people to join us on this journey."
+      ]
+    },
+    {
+      "type": "PHOTO",
+      "content": {
+        "url": "https://a.storyblok.com/f/165555/1920x1080/490e17d59b/rw_devdiary_aug_boonstorefront.jpg/m/715x0/smart/filters:quality(85)",
+        "name": "Boon storefront",
+        "isParallax": true
+      }
+    },
+    {
+      "type": "NUMBERLIST",
+      "content": [
+        "<b>Collect</b> Keepers to unlock new lore about the Factions and forces in New Eden, advancing the story and lifting the veil on some long-running mysteries;",
+        "<b>Create</b> original content across various media and be highlighted for your contributions, showcasing the power of our collective imagination;",
+        "<b>Participate</b> in our community through weekly KLMx sessions, hidden lore challenges and narrative scenarios as we strengthen our bonds;",
+        "<b>Engage</b> in worldbuilding and decision-making processes, enriching the KPR universe and making it a welcoming space for more people to join us on this journey."
+      ]
+    },
+    {
+      "type": "SIGNATURE",
+      "content": { "text": "Kick, Away, Backwardness." }
+    }
+  ]
+}
