@@ -1,24 +1,24 @@
-import { createSlice } from '@reduxjs/toolkit'
+import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
-    isLoading: false,
-}
+  isLoading: false,
+};
 
 const minusLoadingSlice = createSlice({
-  name: 'minusLoadingSlice',
+  name: "minusLoadingSlice",
   initialState,
   reducers: {
     setMinusLoadingOn: (state) => {
-        state.isLoading = true;
+      state.isLoading = true;
     },
 
     setMinusLoadingOff: (state) => {
-
-     state.isLoading = false;
+      state.isLoading = false;
     },
-  }
+  },
 });
 
-export const {setMinusLoadingOn, setMinusLoadingOff} = minusLoadingSlice.actions
+export const { setMinusLoadingOn, setMinusLoadingOff } =
+  minusLoadingSlice.actions;
 
-export default minusLoadingSlice.reducer
+export default minusLoadingSlice.reducer;
