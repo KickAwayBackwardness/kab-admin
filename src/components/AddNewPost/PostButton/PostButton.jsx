@@ -9,7 +9,7 @@ const PostButton = () => {
   return (
     <div className="w-[20%] sticky top-[50px] h-[150px]">
       <button
-        className=" button relative text-[18px] font-semibold bg-black text-white w-full h-[72px] mb-[16px]"
+        className=" button clip-path-button relative text-[18px] font-semibold bg-black text-white w-full h-[72px] mb-[16px]"
         onClick={() => post()}
       >
         Đăng bài viết
